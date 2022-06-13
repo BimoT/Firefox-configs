@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Homepage.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="9.5144352"
+     inkscape:cx="15.082346"
+     inkscape:cy="27.642208"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect236"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.220475,1.8314129 c -0.5247739,0 -0.947229,1.0477386 -0.947229,2.3492106 v 4.3387532 c 0,1.301472 0.4224551,2.3492103 0.947229,2.3492103 h 0.7487915 c 0.5247738,0 0.947229,-1.0477383 0.947229,-2.3492103 V 7.6775676 c 0.013121,1.592e-4 0.02608,5.168e-4 0.039274,5.168e-4 h 2.8277343 v 0.8412923 c 0,1.301472 0.4224553,2.3492103 0.9472291,2.3492103 h 0.7487915 c 0.5247736,0 0.9472296,-1.0477383 0.9472296,-2.3492103 V 4.1806235 c 0,-1.301472 -0.422456,-2.3492106 -0.9472296,-2.3492106 H 8.730733 c -0.5247738,0 -0.9472291,1.0477386 -0.9472291,2.3492106 V 5.0219158 H 4.9557696 c -0.013194,0 -0.026153,3.576e-4 -0.039274,5.168e-4 V 4.1806235 c 0,-1.301472 -0.4224552,-2.3492106 -0.947229,-2.3492106 z" />
+  </g>
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Startpagelogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="13.455443"
+     inkscape:cx="19.360195"
+     inkscape:cy="26.977929"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1321"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1254"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1250"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1571"
+       transform="matrix(1.1169838,0,0,1.1169838,-1.3206646,-0.64313879)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#cb6500;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+         x="2.8098862"
+         y="8.6606131"
+         id="text587"
+         inkscape:highlight-color="#cb6500"><tspan
+           sodipodi:role="line"
+           id="tspan585"
+           style="fill:#cb6500;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+           x="2.8098862"
+           y="8.6606131">S</tspan></text>
+      <path
+         style="fill:none;stroke:#cb6500;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.3823137,11.415152 C 4.5353763,10.749201 5.7857825,10.252111 7.0813511,9.9446275 8.2034805,9.6783068 9.3592414,9.5540247 10.512338,9.575684"
+         id="path1319"
+         inkscape:path-effect="#path-effect1321"
+         inkscape:original-d="M 3.3823137,11.415152 C 4.6221451,10.925242 5.8486031,10.435067 7.0813511,9.9446275 8.3140988,9.4541879 9.3689402,9.6989298 10.512338,9.575684" />
+    </g>
+  </g>
+</svg>
