@@ -1,8 +1,10 @@
 :root{
-    --my-yellow: #cb6500;
-    --my-yellow-shaded: #cb6500cc;
-    --my-red: #5e1900;
-    --my-red-shaded: #5e1900cc;
+    /*--my-yellow: #cb6500;*/
+    --my-yellow: #dead09;
+    --my-yellow-shaded: #dead09cc;
+    /*--my-red: #5e1900;*/
+    --my-red: #9c4513;
+    --my-red-shaded: #9c4513cc;
 }
 html{
     display: flex;
@@ -42,7 +44,7 @@ body{
 main{
     display: flex;
 }
-.myhead{
+header{
     text-align: center;
     background: var(--my-red);
     padding: 1em;
@@ -164,8 +166,9 @@ li:hover {
     align-self: center;
     justify-content: center;
     margin: 15px;
+    transition: 500ms ease;
 }
 .icon:hover{
-    transform: rotate(360deg);
-    transition: 500ms ease;
+    filter: saturate(150%) brightness(120%) !important;
+    opacity: 100%;
 }
